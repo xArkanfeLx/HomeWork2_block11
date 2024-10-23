@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+    <string name="question_1">Как называется самый главный город в стране?</string>
+    <string name="question_2">Кто изображен на щите на гербе России?</string>
+    <string name="question_3">Человек без Родины, что…</string>
+    <string name="question_4">Что является субъектами РФ?</string>
+    <string name="question_5">Какое государство в мире самое большое?</string>
+    <string name="answer_11">Столица-Правильный</string>
+    <string name="answer_12">Главгород</string>
+    <string name="answer_13">Мегаполис</string>
+    <string name="answer_21">Человек с мечом и щитом</string>
+    <string name="answer_22">Огнедышащий дракон</string>
+    <string name="answer_23">Всадник на коне-Правильный</string>
+    <string name="answer_31">... птица без ума-Правильный</string>
+    <string name="answer_32">... птица без гнезда</string>
+    <string name="answer_33">... соловей без усов</string>
+    <string name="answer_41">Штаты</string>
+    <string name="answer_42">Области-Правильный</string>
+    <string name="answer_43">Районы-кварталы</string>
+    <string name="answer_51">Китай</string>
+    <string name="answer_52">Канада</string>
+    <string name="answer_53">Россия-Правильный</string>
+    <string name="result_1">Ой! Фу</string>
+    <string name="result_2">Хмм... Ты точно русский?</string>
+    <string name="result_3">Неплохо, на троечку</string>
+    <string name="result_4">Нормально, чуть шаришь!</string>
+    <string name="result_5">Отлично! Ты настоящий знаток Родины!</string>
+    <string name="title_text">Викторина - Я историк!</string>
+
+</resources>
